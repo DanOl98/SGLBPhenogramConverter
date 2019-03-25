@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phenogram Image Converter", "Phenogram\Phenogram Image Converter.csproj", "{950CA0CA-C469-4C4A-BFD0-4F999C432815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950CA0CA-C469-4C4A-BFD0-4F999C432815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950CA0CA-C469-4C4A-BFD0-4F999C432815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950CA0CA-C469-4C4A-BFD0-4F999C432815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950CA0CA-C469-4C4A-BFD0-4F999C432815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {823C7CF4-0711-4F94-9462-8FA31692B748}
+	EndGlobalSection
+EndGlobal
